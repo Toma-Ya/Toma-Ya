@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Toma-Ya
+- 🌱 I’m currently learning some programming languages, just for fun!
